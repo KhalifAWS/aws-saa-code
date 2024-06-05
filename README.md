@@ -1,33 +1,33 @@
-# AWS Certified Solutions Architect Associate SAA-C03 Course Code
-*By [Digital Cloud Training](https://digitalcloud.training/) - Course Author Neal Davis*
+# Code de cours SAA-C03 associé à l'architecte de solutions certifié AWS
+*Par [Digital Cloud Training](https://digitalcloud.training/) - Auteur du cours Neal Davis*
 
-## How to Use the Course Code
+## Comment utiliser le code du cours
 
-The code used throughout the course has been zipped up and is available for download from this repo. Please download the code to your computer and unzip the contents. When course updates are made the file may be updated and you will need to ensure you download the latest version.
+Le code utilisé tout au long du cours a été compressé et est disponible en téléchargement à partir de ce référentiel. Veuillez télécharger le code sur votre ordinateur et décompresser le contenu. Lorsque des mises à jour de cours sont effectuées, le fichier peut être mis à jour et vous devrez vous assurer de télécharger la dernière version.
 
-## Course Overview
+## Aperçu du cours
 
-The AWS Certified Solutions Architect Associate certification is the most popular AWS certification and the most in-demand for cloud jobs. AWS Solutions Architects can earn over $150,000 p/a and your chances of getting a job will increase dramatically by getting AWS certified.
+La certification AWS Certified Solutions Architect Associate est la certification AWS la plus populaire et la plus demandée pour les emplois cloud. Les architectes de solutions AWS peuvent gagner plus de 150 000 $ par an et vos chances d'obtenir un emploi augmenteront considérablement en obtenant la certification AWS.
 
-In this course, you’ll learn everything you need to know to pass your AWS Certified Solutions Architect Associate exam. The course is taught in a style that includes theory lessons with lots of visualization such as architectural diagrams and animated graphics (this is not death by bullet point).
+Dans ce cours, vous apprendrez tout ce que vous devez savoir pour réussir votre examen AWS Certified Solutions Architect Associate. Le cours est enseigné dans un style qui comprend des cours théoriques avec de nombreuses visualisations telles que des diagrammes architecturaux et des graphiques animés (ce n'est pas une mort par balle).
 
-After the theory lessons you’ll get to put your knowledge into practical use with hands-on lessons that teach you how to use AWS and complete exercises that reflect real-world situations. Learning by doing is the best way to ensure you build practical skills and increases knowledge retention.
+Après les cours théoriques, vous pourrez mettre vos connaissances en pratique avec des leçons pratiques qui vous apprendront à utiliser AWS et des exercices complets qui reflètent des situations réelles. L'apprentissage par la pratique est le meilleur moyen de garantir que vous développez des compétences pratiques et augmente la rétention des connaissances.
 
-The course includes the following features to ensure you are well prepared for the exam:
-- Coverage of the latest exam topics for the SAA-C03
-- Hands-on lessons using the new AWS Management Console
-- Separate theory lessons with amazing architectural diagrams
-- Exam cram lessons summarizing key knowledge
-- Architecture patterns lessons where you’ll learn how to respond to solutions architecture requirements
-- Quiz questions
-- Downloadable slides and study plan
+Le cours comprend les fonctionnalités suivantes pour vous assurer que vous êtes bien préparé pour l'examen :
+- Couverture des derniers sujets d'examen pour le SAA-C03
+- Cours pratiques utilisant la nouvelle AWS Management Console
+- Des cours théoriques séparés avec des diagrammes architecturaux étonnants
+- Cours de cram d'examen résumant les connaissances clés
+- Cours de modèles d'architecture où vous apprendrez à répondre aux exigences de l'architecture des solutions
+- Questions de quiz
+- Diapositives et plan d'étude téléchargeables
 
-What you will learn: 
+Ce que vous apprendrez :
 
-- You will learn – how to design and build multi-tier web architectures with services such as Amazon EC2 Auto Scaling, Amazon Elastic Load Balancing (ELB), AWS Route 53, AWS Lambda, Amazon API Gateway and Amazon Elastic File System (EFS)
-- You will learn – how to create Docker container clusters on Amazon Elastic Container Services (ECS), set up serverless event-driven AWS Lambda Functions with Amazon API Gateway and Amazon Kinesis integrations, and geographically redundant database services with Amazon Relational Database Service (RDS)
-- You will learn – how to configure Amazon Virtual Private Clouds (VPC), subnets, and route tables and setup best practice Security Group configurations
-- You will learn – how to build repeatably and securely with AWS CloudFormation, set up a PaaS with AWS Elastic Beanstalk, configure Amazon S3 bucket policies and share data between multiple AWS accounts
-- You will learn – how to use application integration services including AWS Step Functions, Amazon MQ, SNS, SWF and SQS
+- Vous apprendrez à concevoir et à créer des architectures Web à plusieurs niveaux avec des services tels qu'Amazon EC2 Auto Scaling, Amazon Elastic Load Balancing (ELB), AWS Route 53, AWS Lambda, Amazon API Gateway et Amazon Elastic File System (EFS).
+- Vous apprendrez comment créer des clusters de conteneurs Docker sur Amazon Elastic Container Services (ECS), configurer des fonctions AWS Lambda sans serveur basées sur des événements avec les intégrations Amazon API Gateway et Amazon Kinesis, ainsi que des services de base de données géographiquement redondants avec Amazon Relational Database Service (RDS). )
+- Vous apprendrez – comment configurer les Clouds privés virtuels (VPC), les sous-réseaux et les tables de routage Amazon et configurer les meilleures pratiques de configuration des groupes de sécurité.
+- Vous apprendrez à créer de manière reproductible et sécurisée avec AWS CloudFormation, à configurer un PaaS avec AWS Elastic Beanstalk, à configurer les politiques de compartiment Amazon S3 et à partager des données entre plusieurs comptes AWS.
+- Vous apprendrez à utiliser les services d'intégration d'applications, notamment AWS Step Functions, Amazon MQ, SNS, SWF et SQS.
 
-Learn more and [enroll in this course](https://digitalcloud.training/aws-certified-solutions-architect-associate/) now to get your AWS Certified Solutions Architect Associate certification in 50 days or less
+Apprenez-en davantage et [inscrivez-vous à ce cours](https://digitalcloud.training/aws-certified-solutions-architect-associate/) dès maintenant pour obtenir votre certification AWS Certified Solutions Architect Associate en 50 jours ou moins.
